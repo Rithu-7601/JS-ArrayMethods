@@ -1,2 +1,2 @@
 # JS-ArrayMethods
-ForEach, filter, map, sort, reduce
+examples of ForEach, filter, map, sort, reduce
